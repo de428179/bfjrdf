@@ -1,0 +1,2 @@
+# bfjrdf
+brute force algorithm
